@@ -1,0 +1,35 @@
+* {
+    text-decoration: none;
+    /* color: white; */
+}
+
+div {
+    height: 60px;
+    background-color: black;
+}
+
+#one {
+    color: #f08804;
+    
+}
+
+#two {
+    color: white;
+
+}
+
+#three {
+    color: white;
+ 
+}
+
+#four {
+   
+    color: white;
+}
+
+a{
+    margin-right: 200px;
+}
+
+
